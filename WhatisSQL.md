@@ -97,4 +97,4 @@ container တည်ဆောက်တာ ပြီးစီးသွားပြ
 အခု **mysql-ctl cli** လို့ရိုက်နှိပ်ပြီး MySQL database ကို စရေးလို့ ရပါပြီ
 ![SQL](Capture12.png)
 
-
+mysql 
