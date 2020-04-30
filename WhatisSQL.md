@@ -58,43 +58,42 @@ MySQL ကို MAC installation နဲ့ Cloud9 installation ဆိုပြ�
 အခု ပြောပြသွားမှာကတော့ Cloud9 installation ဖြစ်ပါတယ်
 
 အရင်ဆုံး _goorm.io_ ဆိုပြီး google မှာ ရိုက်ရှာလိုက်ပါ
-![goorm](Capture1.png)
+![goorm](./images/Capture1.png)
 
 ပြီးရင် *sign up* ဆိုတဲ့ symbol ကို ရိုက်နှိပ်ပြီး သူတောင်းဆိုထားတဲ့ 
 email address,password,confirm password,full name ကို ရိုက်ထည့်ပီး sign up လုပ်ပါ
-![sign_up](Capture2.png)
+![sign_up](./images/Capture2.png)
 
 တကယ်လို့  goorm account ဖွင့်ပြီးပြီ နောက်တစ်ခေါက်ထပ်၀င်ချင်တယ်ဆိုရင် sign up မလုပ်ပဲ   *sign in* ကို နှိပ်ပါ
 တောင်းဆိုထားတဲ့ email address နဲ့ password ကို ရိုက်ထည့်ပြီး account ထဲ ဝင်နိုင်ပါပြီ
-![sign_in](Capture3.png)
+![sign_in](./images/Capture3.png)
 
 goorm account ထဲ ရောက်ရင် ဘယ်ဘက်က *IDE* ကို နှိပ်ပါ
-![ide](Capture4.png)
+![ide](./images/Capture4.png)
 
 IDE ထဲ ၀င်ပြီးရင် ညာဘက်ထောင့်က အပြာရောင်နဲ*့ dashboard* ကို နှိပ်ပါ
-![dashboard](Capture5.png)
+![dashboard](./images/Capture5.png)
 
 ပြီးရင် *New Container* ကိုနှိပ်ပြီး container တစ်ခု တည်ဆောက်နိုင်ပါဘီ
-![container](Capture6.png)
+![container](./images/Capture6.png)
 
 containter တည်ဆောက်ရာတွင်  name  နဲ့ description နေရာမှာ ကိုယ်ကြိုက်ရာ ရိုက်လို့ရပါတယ်
-![name](Capture7.png)
+![name](./images/Capture7.png)
 
 ပြီးရင် အသုံးပြုမဲ့ icon ကို ရွေးချယ်ရပါမယ်
 *Node.js* ဟာ လူသုံးများပြီး လုံခြုံစိတ်ချရသောကြောင့် node.js ကိုပဲ ရွေးချယ်ပါမယ်
-![node.js](Capture8.png)
+![node.js](./images/Capture8.png)
 
 အောက်ဆုံးတွင် Additional module/package ဆိုတဲ့ နေရာမှာ
 *Install MySQl* နဲ့ *Enable mysql-ctl command* ကို ရွေးချယ်ပြီး အမှန်ခြစ်ပါ ထို့နောက် ညာဘက်ထောင့်ဆုံးက create ကိုနှိပ်ပါ
-![select](Capture9_LI.jpg)
+![select](./images/Capture9.jpg)
 
 MySQL installation စတင်ပါပြီ
-![install](Capture10.png)
+![install](./images/Capture10.png)
 
 container တည်ဆောက်တာ ပြီးစီးသွားပြီ
-![end](Capture11.png)
+![end](./images/Capture11.png)
 
 အခု **mysql-ctl cli** လို့ရိုက်နှိပ်ပြီး MySQL database ကို စရေးလို့ ရပါပြီ
-![SQL](Capture12.png)
+![SQL](./images/Capture12.png)
 
-mysql 
